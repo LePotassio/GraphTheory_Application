@@ -1,3 +1,5 @@
+// Created By Eric Furukawa, 2020
+
 import java.util.Collections;
 
 ArrayList<Vertex> vList = new ArrayList<Vertex>();
